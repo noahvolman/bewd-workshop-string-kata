@@ -17,7 +17,7 @@ De Kata bestaat uit vijf stappen, met vier extra stappen voor de gevorderde deve
 
 
 1. Maak een nieuw Maven project.
-2. Maak een Klasse genaamd `StringCalculator` en een enkele methode `public int add(string numbers)`.
+2. Maak een Klasse genaamd `StringCalculator` en een enkele methode `public int add(String numbers)`.
     1. Deze methode kan 0, 1 of 2 getallen verwerken en retourneert hun som. 
     2. Voor een lege String retourneert hij 0. Dus: 
 

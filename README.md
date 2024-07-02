@@ -26,8 +26,6 @@ De Kata bestaat uit vijf stappen, met vier extra stappen voor de gevorderde deve
 
     3. Begin met de simpelste test, namelijk voor de lege String.
     4. Maak daarna een test voor een enkel getal en pas wanneer deze werkt een test voor twee getallen.
-    5. Maak de simpelste oplossingen waardoor een test slaagt.
-    6. Vergeet niet te refactoren na iedere geslaagde test.
     
 2. Zorg ervoor dat de methode een willekeurig aantal getallen kan verwerken.
 3. Zorg ervoor dat de methode ook met een new line (\n) als delimiter werkt. Dus niet enkel komma’s. De 
